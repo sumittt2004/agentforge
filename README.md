@@ -10,6 +10,12 @@ AgentForge is a powerful AI agent framework that enables Large Language Models t
 
 ---
 
+## 🌐 Live Demo
+
+**[🚀 Try AgentForge Live](https://agentforge-ai.streamlit.app)** - No installation required!
+
+---
+
 ## 🎯 Features
 
 ✨ **6 Powerful Tools Built-In**
